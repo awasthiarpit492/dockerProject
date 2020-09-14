@@ -1,4 +1,4 @@
-# AutoDocker
+# AutoDock
 
 It is a TUI based administrating tool for Docker on RHEL/CentOS platforms.
 It installs and manages other components of Docker like Containers, Images and Volumes(under development).
